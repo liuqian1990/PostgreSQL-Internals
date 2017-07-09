@@ -1,0 +1,4 @@
+https://fritshoogland.wordpress.com/2017/07/07/postgresql-block-internals-part-3/amp/
+https://www.postgresql.org/docs/9.5/static/pageinspect.html
+https://my.oschina.net/Suregogo/blog/595335
+https://www.postgresql.org/docs/9.5/static/functions-admin.html#FUNCTIONS-ADMIN-SET
